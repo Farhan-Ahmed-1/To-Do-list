@@ -33,6 +33,11 @@ h1 {
   text-align: center;
   margin-bottom: 36px;
 }
+h5{
+  font-style: italic;
+  color: #767373;
+  text-align: center;
+}
 
 .input-container {
   display: flex;
