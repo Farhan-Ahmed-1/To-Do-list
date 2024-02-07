@@ -23,8 +23,8 @@ body {
   min-height: 400px;
   padding: 30px;
   background: transparent;
-  border: 2px solid #e6b7eca1;
-  border-radius: 10px;
+  border: 2px solid #84bdeba1;
+  border-radius: 40px;
   backdrop-filter: blur(15px);
 }
 
